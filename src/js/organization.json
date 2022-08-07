@@ -1,0 +1,892 @@
+{
+  "errcode": "0",
+  "errmsg": "ok",
+  "menu": [
+    {
+      "id": 1,
+      "name": "茂名市人民医院",
+      "parentid": 0,
+      "order": 100000000,
+      "children": [
+        {
+          "id": 10,
+          "name": "行政后勤",
+          "parentid": 1,
+          "order": 100001000,
+          "children": [
+            {
+              "id": 154,
+              "name": "院领导",
+              "parentid": 10,
+              "order": 100002000,
+              "children": []
+            },
+            {
+              "id": 82,
+              "name": "办公室",
+              "parentid": 10,
+              "order": 100001000,
+              "children": []
+            },
+            {
+              "id": 116,
+              "name": "党委办公室",
+              "parentid": 10,
+              "order": 100000750,
+              "children": []
+            },
+            {
+              "id": 180,
+              "name": "纪检监察办公室",
+              "parentid": 10,
+              "order": 100000625,
+              "children": []
+            },
+            {
+              "id": 18,
+              "name": "财务科",
+              "parentid": 10,
+              "order": 100000500,
+              "children": [
+                {
+                  "id": 143,
+                  "name": "收费管理办公室",
+                  "parentid": 18,
+                  "order": 100000000,
+                  "children": [
+                    {
+                      "id": 144,
+                      "name": "挂号收费处",
+                      "parentid": 143,
+                      "order": 100000000,
+                      "children": []
+                    },
+                    {
+                      "id": 146,
+                      "name": "出入院处",
+                      "parentid": 143,
+                      "order": 99999000,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 99,
+              "name": "医务科",
+              "parentid": 10,
+              "order": 99999500,
+              "children": [
+                {
+                  "id": 178,
+                  "name": "医患办",
+                  "parentid": 99,
+                  "order": 99999000,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 42,
+              "name": "护理部",
+              "parentid": 10,
+              "order": 99999250,
+              "children": []
+            },
+            {
+              "id": 126,
+              "name": "人事科",
+              "parentid": 10,
+              "order": 99999234,
+              "children": []
+            },
+            {
+              "id": 120,
+              "name": "团委",
+              "parentid": 10,
+              "order": 99999218,
+              "children": []
+            },
+            {
+              "id": 128,
+              "name": "工会",
+              "parentid": 10,
+              "order": 99999171,
+              "children": []
+            },
+            {
+              "id": 40,
+              "name": "计算机管理科",
+              "parentid": 10,
+              "order": 99999125,
+              "children": [
+                {
+                  "id": 135,
+                  "name": "OA项目组",
+                  "parentid": 40,
+                  "order": 100000000,
+                  "children": []
+                },
+                {
+                  "id": 176,
+                  "name": "测试组",
+                  "parentid": 40,
+                  "order": 99999000,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 163,
+              "name": "招标采购办公室",
+              "parentid": 10,
+              "order": 99999062,
+              "children": []
+            },
+            {
+              "id": 12,
+              "name": "客户服务部",
+              "parentid": 10,
+              "order": 99999000,
+              "children": []
+            },
+            {
+              "id": 21,
+              "name": "科教科",
+              "parentid": 10,
+              "order": 99997000,
+              "children": [
+                {
+                  "id": 111,
+                  "name": "临床技能培训中心",
+                  "parentid": 21,
+                  "order": 99999000,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 105,
+              "name": "信息科",
+              "parentid": 10,
+              "order": 99992500,
+              "children": []
+            },
+            {
+              "id": 65,
+              "name": "病案室",
+              "parentid": 10,
+              "order": 99991000,
+              "children": []
+            },
+            {
+              "id": 161,
+              "name": "审计室",
+              "parentid": 10,
+              "order": 99990750,
+              "children": []
+            },
+            {
+              "id": 46,
+              "name": "总务科",
+              "parentid": 10,
+              "order": 99990500,
+              "children": []
+            },
+            {
+              "id": 70,
+              "name": "设备科",
+              "parentid": 10,
+              "order": 99989202,
+              "children": []
+            },
+            {
+              "id": 79,
+              "name": "院感科",
+              "parentid": 10,
+              "order": 99988000,
+              "children": []
+            },
+            {
+              "id": 84,
+              "name": "保卫科",
+              "parentid": 10,
+              "order": 99985000,
+              "children": []
+            },
+            {
+              "id": 86,
+              "name": "临床营养科",
+              "parentid": 10,
+              "order": 99984000,
+              "children": []
+            },
+            {
+              "id": 89,
+              "name": "科研中心",
+              "parentid": 10,
+              "order": 99983000,
+              "children": []
+            },
+            {
+              "id": 101,
+              "name": "质控科",
+              "parentid": 10,
+              "order": 99980000,
+              "children": []
+            },
+            {
+              "id": 114,
+              "name": "绩效管理办公室",
+              "parentid": 10,
+              "order": 99975000,
+              "children": []
+            },
+            {
+              "id": 118,
+              "name": "预防保健科",
+              "parentid": 10,
+              "order": 99973000,
+              "children": []
+            },
+            {
+              "id": 119,
+              "name": "医保科",
+              "parentid": 10,
+              "order": 99972000,
+              "children": []
+            },
+            {
+              "id": 129,
+              "name": "宣传办公室",
+              "parentid": 10,
+              "order": 99966000,
+              "children": []
+            },
+            {
+              "id": 172,
+              "name": "评审办公室",
+              "parentid": 10,
+              "order": 99965000,
+              "children": []
+            },
+            {
+              "id": 133,
+              "name": "生产经营科",
+              "parentid": 10,
+              "order": 99963000,
+              "children": []
+            },
+            {
+              "id": 175,
+              "name": "预约管理中心",
+              "parentid": 10,
+              "order": 99959000,
+              "children": []
+            },
+            {
+              "id": 171,
+              "name": "高评办",
+              "parentid": 10,
+              "order": 99956000,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "医技",
+          "parentid": 1,
+          "order": 100000750,
+          "children": [
+            {
+              "id": 5,
+              "name": "药剂科",
+              "parentid": 4,
+              "order": 100000000,
+              "children": []
+            },
+            {
+              "id": 15,
+              "name": "检验科",
+              "parentid": 4,
+              "order": 99999000,
+              "children": []
+            },
+            {
+              "id": 17,
+              "name": "供应室",
+              "parentid": 4,
+              "order": 99998000,
+              "children": []
+            },
+            {
+              "id": 27,
+              "name": "CT科",
+              "parentid": 4,
+              "order": 99997000,
+              "children": []
+            },
+            {
+              "id": 33,
+              "name": "高压氧科",
+              "parentid": 4,
+              "order": 99996000,
+              "children": []
+            },
+            {
+              "id": 63,
+              "name": "放疗中心",
+              "parentid": 4,
+              "order": 99994000,
+              "children": []
+            },
+            {
+              "id": 71,
+              "name": "产前诊断中心",
+              "parentid": 4,
+              "order": 99993000,
+              "children": []
+            },
+            {
+              "id": 80,
+              "name": "生殖医学中心",
+              "parentid": 4,
+              "order": 99992500,
+              "children": []
+            },
+            {
+              "id": 74,
+              "name": "核磁共振科",
+              "parentid": 4,
+              "order": 99992000,
+              "children": []
+            },
+            {
+              "id": 94,
+              "name": "核医学科",
+              "parentid": 4,
+              "order": 99989000,
+              "children": []
+            },
+            {
+              "id": 95,
+              "name": "超声诊断科",
+              "parentid": 4,
+              "order": 99988000,
+              "children": []
+            },
+            {
+              "id": 110,
+              "name": "病理科",
+              "parentid": 4,
+              "order": 99986000,
+              "children": []
+            },
+            {
+              "id": 121,
+              "name": "放射科",
+              "parentid": 4,
+              "order": 99985000,
+              "children": []
+            },
+            {
+              "id": 170,
+              "name": "内镜中心",
+              "parentid": 4,
+              "order": 99984000,
+              "children": []
+            },
+            {
+              "id": 147,
+              "name": "介入中心",
+              "parentid": 4,
+              "order": 99983000,
+              "children": []
+            },
+            {
+              "id": 168,
+              "name": "经颅、脑电图",
+              "parentid": 4,
+              "order": 99981000,
+              "children": []
+            },
+            {
+              "id": 125,
+              "name": "心电图科",
+              "parentid": 4,
+              "order": 99980500,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "外科",
+          "parentid": 1,
+          "order": 100000625,
+          "children": [
+            {
+              "id": 68,
+              "name": "妇科",
+              "parentid": 2,
+              "order": 100001000,
+              "children": []
+            },
+            {
+              "id": 3,
+              "name": "产科",
+              "parentid": 2,
+              "order": 100000000,
+              "children": []
+            },
+            {
+              "id": 14,
+              "name": "肝胆胰、肛肠外科",
+              "parentid": 2,
+              "order": 99996000,
+              "children": []
+            },
+            {
+              "id": 43,
+              "name": "手足显微外科",
+              "parentid": 2,
+              "order": 99993000,
+              "children": []
+            },
+            {
+              "id": 44,
+              "name": "耳鼻喉科",
+              "parentid": 2,
+              "order": 99992000,
+              "children": []
+            },
+            {
+              "id": 47,
+              "name": "麻醉手术科",
+              "parentid": 2,
+              "order": 99991000,
+              "children": []
+            },
+            {
+              "id": 48,
+              "name": "泌尿外科一区",
+              "parentid": 2,
+              "order": 99990000,
+              "children": []
+            },
+            {
+              "id": 55,
+              "name": "泌尿外科二区、口腔科",
+              "parentid": 2,
+              "order": 99989000,
+              "children": []
+            },
+            {
+              "id": 60,
+              "name": "眼科",
+              "parentid": 2,
+              "order": 99987000,
+              "children": []
+            },
+            {
+              "id": 62,
+              "name": "脊柱外科一区",
+              "parentid": 2,
+              "order": 99986000,
+              "children": []
+            },
+            {
+              "id": 136,
+              "name": "脊柱外科二区",
+              "parentid": 2,
+              "order": 99985500,
+              "children": []
+            },
+            {
+              "id": 85,
+              "name": "创伤骨科",
+              "parentid": 2,
+              "order": 99980000,
+              "children": []
+            },
+            {
+              "id": 104,
+              "name": "心、胸外科",
+              "parentid": 2,
+              "order": 99978000,
+              "children": []
+            },
+            {
+              "id": 124,
+              "name": "中医肛肠外科",
+              "parentid": 2,
+              "order": 99976000,
+              "children": []
+            },
+            {
+              "id": 189,
+              "name": "胃肠中医肛肠科",
+              "parentid": 2,
+              "order": 99975750,
+              "children": []
+            },
+            {
+              "id": 188,
+              "name": "甲状腺血管外科",
+              "parentid": 2,
+              "order": 99975500,
+              "children": []
+            },
+            {
+              "id": 145,
+              "name": "神经外科一区",
+              "parentid": 2,
+              "order": 99974000,
+              "children": []
+            },
+            {
+              "id": 153,
+              "name": "神经外科二区",
+              "parentid": 2,
+              "order": 99973500,
+              "children": []
+            },
+            {
+              "id": 148,
+              "name": "外科重症医学科",
+              "parentid": 2,
+              "order": 99973000,
+              "children": []
+            },
+            {
+              "id": 152,
+              "name": "关节四肢骨病科",
+              "parentid": 2,
+              "order": 99972000,
+              "children": []
+            },
+            {
+              "id": 159,
+              "name": "乳腺科",
+              "parentid": 2,
+              "order": 99971000,
+              "children": []
+            },
+            {
+              "id": 158,
+              "name": "烧伤、整形外科 小儿外、疝外科",
+              "parentid": 2,
+              "order": 99970000,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "内科",
+          "parentid": 1,
+          "order": 100000500,
+          "children": [
+            {
+              "id": 9,
+              "name": "肾内科一区",
+              "parentid": 8,
+              "order": 100002000,
+              "children": []
+            },
+            {
+              "id": 66,
+              "name": "肾内科二区",
+              "parentid": 8,
+              "order": 100001000,
+              "children": []
+            },
+            {
+              "id": 137,
+              "name": "肾内科血液净化中心",
+              "parentid": 8,
+              "order": 99999500,
+              "children": []
+            },
+            {
+              "id": 16,
+              "name": "消化内科一区",
+              "parentid": 8,
+              "order": 99999000,
+              "children": []
+            },
+            {
+              "id": 54,
+              "name": "消化内科二区",
+              "parentid": 8,
+              "order": 99998500,
+              "children": []
+            },
+            {
+              "id": 26,
+              "name": "重症医学科",
+              "parentid": 8,
+              "order": 99997000,
+              "children": []
+            },
+            {
+              "id": 165,
+              "name": "重症医学科三区",
+              "parentid": 8,
+              "order": 99996000,
+              "children": []
+            },
+            {
+              "id": 25,
+              "name": "神经重症医学科",
+              "parentid": 8,
+              "order": 99995500,
+              "children": []
+            },
+            {
+              "id": 34,
+              "name": "肿瘤科一区",
+              "parentid": 8,
+              "order": 99995000,
+              "children": []
+            },
+            {
+              "id": 93,
+              "name": "肿瘤科二区",
+              "parentid": 8,
+              "order": 99994500,
+              "children": []
+            },
+            {
+              "id": 73,
+              "name": "肿瘤科三区",
+              "parentid": 8,
+              "order": 99994250,
+              "children": []
+            },
+            {
+              "id": 36,
+              "name": "感染科",
+              "parentid": 8,
+              "order": 99993000,
+              "children": []
+            },
+            {
+              "id": 139,
+              "name": "内分泌代谢内科",
+              "parentid": 8,
+              "order": 99986750,
+              "children": []
+            },
+            {
+              "id": 113,
+              "name": "心血管内科一区",
+              "parentid": 8,
+              "order": 99986500,
+              "children": []
+            },
+            {
+              "id": 58,
+              "name": "心血管内科二区",
+              "parentid": 8,
+              "order": 99986000,
+              "children": []
+            },
+            {
+              "id": 64,
+              "name": "普儿科",
+              "parentid": 8,
+              "order": 99985500,
+              "children": []
+            },
+            {
+              "id": 59,
+              "name": "新生儿科",
+              "parentid": 8,
+              "order": 99985000,
+              "children": []
+            },
+            {
+              "id": 67,
+              "name": "中医科",
+              "parentid": 8,
+              "order": 99983000,
+              "children": []
+            },
+            {
+              "id": 72,
+              "name": "心脏CCU",
+              "parentid": 8,
+              "order": 99982000,
+              "children": []
+            },
+            {
+              "id": 138,
+              "name": "血液风湿免疫科",
+              "parentid": 8,
+              "order": 99980000,
+              "children": []
+            },
+            {
+              "id": 91,
+              "name": "综合科",
+              "parentid": 8,
+              "order": 99979000,
+              "children": []
+            },
+            {
+              "id": 107,
+              "name": "全科医学科",
+              "parentid": 8,
+              "order": 99977000,
+              "children": []
+            },
+            {
+              "id": 149,
+              "name": "呼吸与危重症学科一区",
+              "parentid": 8,
+              "order": 99974000,
+              "children": []
+            },
+            {
+              "id": 150,
+              "name": "呼吸与危重症学科二区",
+              "parentid": 8,
+              "order": 99973000,
+              "children": []
+            },
+            {
+              "id": 156,
+              "name": "康复医学科",
+              "parentid": 8,
+              "order": 99972000,
+              "children": []
+            },
+            {
+              "id": 157,
+              "name": "神经内科一区",
+              "parentid": 8,
+              "order": 99971000,
+              "children": []
+            },
+            {
+              "id": 162,
+              "name": "神经内科三区",
+              "parentid": 8,
+              "order": 99970000,
+              "children": []
+            },
+            {
+              "id": 164,
+              "name": "神经内科二区",
+              "parentid": 8,
+              "order": 99969000,
+              "children": []
+            },
+            {
+              "id": 169,
+              "name": "脑科中心",
+              "parentid": 8,
+              "order": 99968000,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "门诊系统",
+          "parentid": 1,
+          "order": 99996000,
+          "children": [
+            {
+              "id": 24,
+              "name": "急诊科",
+              "parentid": 19,
+              "order": 100001000,
+              "children": []
+            },
+            {
+              "id": 20,
+              "name": "体检中心",
+              "parentid": 19,
+              "order": 100000000,
+              "children": []
+            },
+            {
+              "id": 32,
+              "name": "一门诊部、导医",
+              "parentid": 19,
+              "order": 99998000,
+              "children": []
+            },
+            {
+              "id": 167,
+              "name": "新福门诊部",
+              "parentid": 19,
+              "order": 99995000,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "name": "临床支持中心",
+          "parentid": 1,
+          "order": 99995000,
+          "children": []
+        },
+        {
+          "id": 151,
+          "name": "水东湾分院门诊部",
+          "parentid": 1,
+          "order": 99990500,
+          "children": []
+        },
+        {
+          "id": 117,
+          "name": "院前急救支持队",
+          "parentid": 1,
+          "order": 99990000,
+          "children": []
+        },
+        {
+          "id": 123,
+          "name": "医联体办公室",
+          "parentid": 1,
+          "order": 99989000,
+          "children": []
+        },
+        {
+          "id": 22,
+          "name": "日间化疗中心",
+          "parentid": 1,
+          "order": 99986000,
+          "children": []
+        },
+        {
+          "id": 185,
+          "name": "进修人员",
+          "parentid": 1,
+          "order": 99983500,
+          "children": []
+        },
+        {
+          "id": 183,
+          "name": "借调院外人员",
+          "parentid": 1,
+          "order": 99983250,
+          "children": []
+        },
+        {
+          "id": 184,
+          "name": "下乡人员",
+          "parentid": 1,
+          "order": 99983125,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
