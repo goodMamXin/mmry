@@ -235,7 +235,7 @@ export default {
             // 注：既要返回下属组织，也要返回该组织的人员名单            
             // 用了async声明方法返回的就是promise对象，promise对象的值PromiseResult获取只能通过.then()方法获取
             let resultDepData = getQywxDepInfo(param_id);//[{},{}] //返回的是depid的子组织
-            console.log(resultDepData)
+            //console.log(resultDepData)
             resultDepData.then((result) => {   
                 // 1.下属组织
                 let tree = result;                               
@@ -261,8 +261,10 @@ export default {
                                 this.list.push({'id':id,'name':name,'type':'1'});
                             }
                         } 
-                    }else {
-                        this.list.push({'id':"-1",'name':"没找到数据",'type':'-1'})
+                    } else {  // 无下属组织时，且目标组织没成员      
+                        if(this.list.length === 0) {
+                            this.list.push({'id':"-1",'name':"没找到数据",'type':'-1'});
+                        }                        
                     }                     
                 })  
                 this.loadingShow = false;           
